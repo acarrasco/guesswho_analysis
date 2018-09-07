@@ -1,0 +1,25 @@
+Name,Name Length,NL>4,Even,Gender,Hair Color,Hair Length,Hair Shape,Eyes,Moustache,Beard,Hat,Glasses,Nose,Mouth,Lips,Smile,Cheeks,Chin Protruding,Chin Hole,Frown
+Alex,4,0,1,Male,Black,Short,Straight,Brown,Yes,No,No,No,Small,Big,Thick,Yes,Plain,Yes,No,No
+Alfred,6,1,1,Male,Ginger,Long,Straight,Blue,Yes,No,No,No,Small,Small,Thin,No,Plain,Yes,No,No
+Anita,5,0,0,Female,Blonde,Long,Straight,Blue,No,No,No,No,Small,Small,Thin,Yes,Rosy,No,No,No
+Anne,4,0,1,Female,Black,Short,Curly,Brown,No,No,No,No,Big,Small,Thin,No,Plain,No,No,Yes
+Bernard,7,1,0,Male,Brown,Short,Straight,Brown,No,No,Yes,No,Big,Small,Thin,No,Plain,No,Yes,No
+Bill,4,0,1,Male,Ginger,Bald,Straight,Brown,No,Yes,No,No,Small,Small,Thin,Yes,Rosy,,,No
+Charles,7,1,0,Male,Blonde,Short,Straight,Brown,Yes,No,No,No,Small,Big,Thick,Yes,Plain,No,Yes,No
+Claire,6,1,1,Female,Ginger,Short,Wavy,Brown,No,No,Yes,Yes,Small,Small,Thick,Yes,Plain,No,No,No
+David,5,0,0,Male,Blonde,Short,Straight,Brown,No,Yes,No,No,Small,Big,Thin,Yes,Plain,,,No
+Eric,4,0,1,Male,Blonde,Short,Straight,Brown,No,No,Yes,No,Small,Big,Thin,Yes,Plain,Yes,Yes,No
+Frans,5,0,0,Male,Ginger,Short,Curly,Brown,No,No,No,No,Small,Small,Thin,Yes,Plain,Yes,No,Yes
+George,6,1,1,Male,White,Short,Straight,Brown,No,No,Yes,No,Small,Big,Thin,No,Plain,No,Yes,No
+Herman,6,1,1,Male,Ginger,Bald,Curly,Brown,No,No,No,No,Big,Small,Thin,No,Plain,Yes,No,Yes
+Joe,3,0,0,Male,Blonde,Short,Curly,Brown,No,No,No,Yes,Small,Small,Thin,No,Plain,No,Yes,No
+Maria,5,0,0,Female,Brown,Long,Straight,Brown,No,No,Yes,No,Small,Small,Thick,Yes,Plain,No,No,No
+Max,3,0,0,Male,Black,Short,Curly,Brown,Yes,No,No,No,Big,Big,Thick,Yes,Plain,No,No,No
+Paul,4,0,1,Male,White,Short,Wavy,Brown,No,No,No,Yes,Small,Small,Thin,Yes,Plain,Yes,Yes,Yes
+Peter,5,0,0,Male,White,Short,Wavy,Blue,No,No,No,No,Big,Big,Thick,Yes,Plain,Yes,No,Yes
+Phillip,7,1,0,Male,Black,Short,Curly,Brown,No,Yes,No,No,Small,Big,Thin,Yes,Rosy,No,,Yes
+Richard,7,1,0,Male,Brown,Bald,Straight,Brown,Yes,Yes,No,No,Small,Small,Thin,Yes,Plain,,,Yes
+Robert,6,1,1,Male,Brown,Short,Straight,Blue,No,No,No,No,Big,Big,Thin,No,Rosy,No,Yes,No
+Sam,3,0,0,Male,White,Bald,Straight,Brown,No,No,No,Yes,Small,Small,Thin,Yes,Plain,Yes,No,Yes
+Susan,5,0,0,Female,White,Long,Straight,Brown,No,No,No,No,Small,Big,Thick,Yes,Rosy,No,No,No
+Tom,3,0,0,Male,Black,Bald,Straight,Blue,No,No,No,Yes,Small,Small,Thin,Yes,Plain,No,No,Yes
